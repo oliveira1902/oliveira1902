@@ -1,16 +1,17 @@
-## Hi there 👋
+## Sejam bem vindos(as) ao meu perfil✨
 
-<!--
-**oliveira1902/oliveira1902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Prazer, me nome é Julia Custódio
 
-Here are some ideas to get you started:
+-Estou fazendo o curso do [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Me desemvolvendo na linguagem Javascript
+
+-Ultilizo esse espaço basicamente para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Vocês pode entrar em contato comigo através de
+📧juhcustodio205@gmail.com / [@juhpx.z](https://www.instagram.com/juhpx.z/)
+
+
+
+
+![](https://media1.tenor.com/m/ZuXnTDxIbjQAAAAC/shocked-shocked-cat.gif)
