@@ -1,6 +1,6 @@
 ## Sejam bem vindos(as) ao meu perfil✨
 
-Prazer, me nome é Julia Custódio
+Prazer, me nome é Julia Custódio de Oliveira
 
 -Estou fazendo o curso do [Alura](https://www.alura.com.br)
 
